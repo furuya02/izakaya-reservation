@@ -1,0 +1,10 @@
+{
+  "name": "izakaya-reservation",
+  "description": "izakaya-reservation",
+  "memory": 128,
+  "timeout": 5,
+  "runtime": "nodejs8.10",
+  "handler": "index.handle",
+  "role": "arn:aws:iam::439028474478:role/izakaya-reservation_lambda_function",
+  "environment": {}
+}
