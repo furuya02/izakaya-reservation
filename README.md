@@ -12,7 +12,7 @@ $ cd izakaya-reservation.git
 $ npm install -D 
 $ cd functions/conect
 $ npm install aws-sdk
-$ xcd ../..
+$ cd ../..
 ```
 
 ```
