@@ -8,7 +8,7 @@ $ git clone https://github.com/furuya02/izakaya-reservation.git
 ```
 
 ```
-$ cd izakaya-reservation.git
+$ cd izakaya-reservation
 $ npm install -D 
 $ cd functions/conect
 $ npm install aws-sdk
